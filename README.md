@@ -16,4 +16,9 @@
 
 ![Screenshot_20190501-120716~01](https://user-images.githubusercontent.com/46208706/57033936-7b43ed00-6c0b-11e9-9589-15db88a893a4.png)
 
+# Recuerda!
+# no es nesesario que uses ngrok o serveo para hackear fuera de la red, este scritp hackea fuera de la red como shellphish
+# Contactame si da errores https://t.me/CesarGray
+# sigueme en youtube
+https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
 
