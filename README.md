@@ -10,5 +10,10 @@
 # ejemplo
 ![Screenshot_20190501-120730~01](https://user-images.githubusercontent.com/46208706/57033824-2ef8ad00-6c0b-11e9-946c-44285ee303c9.png)
 
+# las configuraciones son los siguientes
+# no cuenta nada configurar nuestro payload.apk
+# ejemplo
+
+![Screenshot_20190501-120716~01](https://user-images.githubusercontent.com/46208706/57033936-7b43ed00-6c0b-11e9-9589-15db88a893a4.png)
 
 
