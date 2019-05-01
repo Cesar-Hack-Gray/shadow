@@ -6,5 +6,9 @@
 # aca les muestro como nos da los enlaces fuera y dentro de la red local
 # servidor php 
 ![Screenshot_20190501-120620~01](https://user-images.githubusercontent.com/46208706/57033734-e9d47b00-6c0a-11e9-8cff-ce17b78b78a6.png)
+# y aca es donde ya nuestro handler estara en escucha a que la victima instale el payload.apk
+# ejemplo
+![Screenshot_20190501-120730~01](https://user-images.githubusercontent.com/46208706/57033824-2ef8ad00-6c0b-11e9-946c-44285ee303c9.png)
+
 
 
